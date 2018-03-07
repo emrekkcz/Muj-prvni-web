@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html lang='cs'>
+<head>
+<meta charset ="UTF-8">  
+<title>Můj první html dokument</title>  
+</head>
+<body>
+<h2>PARÁDNÍ ODSTAVCE</h2>
+<p>Toto je odstavec.</p>
+<p>Zde začíná nový odstavec.</p>
+<h2>Výborný chemický vzorec a ještě lepší matematický výraz</h2>
+<p>H<sub>2</sub>SO<sub>4</sub>; a<sup>(i + j)</sup> + 2b</p>
+<h1>Seznamy</h1>
+<h2>Řazený seznam</h2>
+<ol>
+<li>cukříky</li>
+<li>bombónky</li>
+<li>sýr</li>
+</ol>
+<h2>Neřazený seznam</h2>
+<ul>
+<li>modrá</li>
+<li>červená</li>
+<li>fialová</li>
+</ul>
+<h2>Tabulka</h2>
+<table border="1">
+<tr><td>Jméno</td><td>Příjmení</td>
+<tr><td>Antonín</td><td>Novák</td>
+<tr><td>Kamila</td><td>Macková</td>
+</table>
+<h2>Obrázek</h2>
+<img src="fotka.jpg">
+<h2>Hypertextové odkazy</h1>
+<a href="Novy3.html">Jdi na druhou stránku</a>
+</body>
+</html>
